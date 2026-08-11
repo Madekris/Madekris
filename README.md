@@ -31,10 +31,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Activity & Contributions
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=madekris&theme=tokyonight&margin-w=15&row=1" alt="Madekris Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madekris&theme=tokyo-night" alt="Madekris's GitHub Activity Graph" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/0e75b6/madekris" alt="Madekris's Github Contribution Chart" width="100%" />
 </p>
 
 ---
