@@ -47,14 +47,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-readme-stats-madekris.vercel.app/?username=madekris&theme=tokyonight&margin-w=15&row=1" alt="Madekris Trophies" />
-</p>
-
----
-
 ### 🌐 Connect with me
 
 <p align="left">
