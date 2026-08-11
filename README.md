@@ -52,6 +52,8 @@
 
 ### 🛠️ Languages and Tools
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=madekris&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,laravel,nodejs,express,mysql,git,figma,postman,tailwind&perline=8" alt="Tech Stack" />
@@ -61,10 +63,6 @@
 ---
 
 ### 🔥 GitHub activity & contributions
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madekris&theme=tokyo-night&area=true&animation=true" alt="Madekris's GitHub Activity Graph" width="100%" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats-madekris.vercel.app/api?username=madekris&show_icons=true&theme=tokyonight&hide_border=true" alt="Madekris's GitHub stats" height="165" />
