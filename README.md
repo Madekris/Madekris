@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madekris</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Frontend+Developer;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ### 🔥 GitHub activity & contributions
 
 <p align="left">
-  <img src="https://github-readme-stats-madekris.vercel.app/graph?username=madekris&theme=tokyo-night&area=true&animation=true" alt="Madekris's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madekris&theme=tokyo-night&area=true&animation=true" alt="Madekris's GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="left">
