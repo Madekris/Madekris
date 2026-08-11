@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
--🔭 I'm a **Software Engineer**
--👯 I’m a **Computer Science Student** at ITB STIKOM Bali
--🌱 I’m currently learning **Laravel, React, JS, NodeJS, TS, PHP, Python**
--📫 How to reach me: **[krisnawidiatmika17@gmail.com](mailto:krisnawidiatmika17@gmail.com)**
--⚡ Fun fact: **I'm single**
+- 🔭 I'm a **Software Engineer**
+- 👯 I’m a **Computer Science Student** at ITB STIKOM Bali
+- 🌱 I’m currently learning **Laravel, React, JS, NodeJS, TS, PHP, Python**
+- 📫 How to reach me: **[krisnawidiatmika17@gmail.com](mailto:krisnawidiatmika17@gmail.com)**
+- ⚡ Fun fact: **I'm single**
 
 ---
 
