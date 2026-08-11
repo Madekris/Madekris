@@ -31,11 +31,10 @@
 
 ---
 
-### 🔥 GitHub Stats & Streak
+### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=madekris&show_icons=true&theme=tokyonight&hide_border=true" alt="Madekris's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=madekris&theme=tokyonight&hide_border=true" alt="Madekris's GitHub Streak" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madekris&theme=tokyonight&margin-w=15&row=1" alt="Madekris Trophies" />
 </p>
 
 ---
