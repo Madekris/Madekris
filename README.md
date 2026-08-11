@@ -34,11 +34,11 @@
 ### 🔥 GitHub activity & contributions
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madekris&theme=tokyo-night&area=true&animation=true" alt="Madekris's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-stats-madekris.vercel.app/graph?username=madekris&theme=tokyo-night&area=true&animation=true" alt="Madekris's GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=madekris&show_icons=true&theme=tokyonight&hide_border=true" alt="Madekris's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-madekris.vercel.app/api?username=madekris&show_icons=true&theme=tokyonight&hide_border=true" alt="Madekris's GitHub stats" height="165" />
 </p>
 
 <p align="left">
@@ -50,7 +50,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=madekris&theme=tokyonight&margin-w=15&row=1" alt="Madekris Trophies" />
+  <img src="https://github-readme-stats-madekris.vercel.app/?username=madekris&theme=tokyonight&margin-w=15&row=1" alt="Madekris Trophies" />
 </p>
 
 ---
