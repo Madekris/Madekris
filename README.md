@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Madekris</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madekris&label=Profile%20views&color=0e75b6&style=flat" alt="madekris profile views" />
+  <!-- 1. ANIMATED BANNER (Header Tema) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=220&section=header&text=Welcome%20to%20Madekris%20Profile!&fontSize=35&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Header Banner" />
+</p>
+<h1 align="center">
+  <!-- 2. TYPING SVG ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&weight=600&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=I'm+a;Youtuber;Software+Engineer;Computer+Science+Student" alt="Typing SVG" />
+  </a>
+</h1>
+
+### 📊 My Stats & Views
+
+<!-- 3. VIEW COUNTER & MAIN STATS INTEGRATED CARD -->
+<p align="left">
+  <!-- View Counter (Gaya for-the-badge agar menyatu) -->
+  <img src="https://komarev.com/ghpvc/?username=madekris&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="madekris profile views" height="25px"/>
+  
+  <!-- Tambahkan Kontribusi Utama agar Tidak Flat Sendirian -->
+  <img src="https://img.shields.io/github/stars/madekris?style=for-the-badge&color=0e75b6&label=Stars%20Given" alt="Stars Given" height="25px"/>
 </p>
 
 ---
@@ -15,7 +28,6 @@
 - 👯 I’m a **Computer Science Student** at ITB STIKOM Bali
 - 🌱 I’m currently learning **Laravel, React, JS, NodeJS, TS, PHP, Python**
 - 📫 How to reach me: **[krisnawidiatmika17@gmail.com](mailto:krisnawidiatmika17@gmail.com)**
-- ⚡ Fun fact: **I'm single**
 
 ---
 
