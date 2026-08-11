@@ -11,13 +11,30 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm a **Software Engineer**
-- 👯 I’m a **Computer Science Student** at ITB STIKOM Bali
-- 🤝 I’m currently working on **Management Information System BIKUREN**
-- 🌱 I’m currently learning **Laravel, React, JS, NodeJS, TS, PHP, Python**
-- 💬 Ask me about **PHP, JS, React**
-- 📫 How to reach me: **[krisnawidiatmika17@gmail.com](mailto:krisnawidiatmika17@gmail.com)**
-- ⚡ Fun fact: **I don't have a girlfriend :D**
+🔭 I'm a **Software Engineer**
+👯 I’m a **Computer Science Student** at ITB STIKOM Bali
+🌱 I’m currently learning **Laravel, React, JS, NodeJS, TS, PHP, Python**
+📫 How to reach me: **[krisnawidiatmika17@gmail.com](mailto:krisnawidiatmika17@gmail.com)**
+⚡ Fun fact: **I'm single**
+
+---
+
+### 🌐 Connect with me
+
+<div align="left">
+  <a href="https://www.youtube.com/c/krisna widiatmika" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/krisna_widiatmika/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/madekris_03996" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://krisnawidiatmika17@gmail.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 ---
 
@@ -43,14 +60,4 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=madekris&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Madekris's GitHub Streak" height="165" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.youtube.com/c/krisna widiatmika" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" style="margin: 0 10px;"/>
-  </a>
 </p>
