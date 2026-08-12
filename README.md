@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-### 📊 My Stats & Views
+### 📊 Stars Given
 
 <!-- 3. VIEW COUNTER & MAIN STATS INTEGRATED CARD -->
 <p align="left">
