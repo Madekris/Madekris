@@ -13,10 +13,6 @@
 
 <!-- 3. VIEW COUNTER & MAIN STATS INTEGRATED CARD -->
 <p align="left">
-  <!-- View Counter (Gaya for-the-badge agar menyatu) -->
-  <img src="https://komarev.com/ghpvc/?username=madekris&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="madekris profile views" height="25px"/>
-  
-  <!-- Tambahkan Kontribusi Utama agar Tidak Flat Sendirian -->
   <img src="https://img.shields.io/github/stars/madekris?style=for-the-badge&color=0e75b6&label=Stars%20Given" alt="Stars Given" height="25px"/>
 </p>
 
