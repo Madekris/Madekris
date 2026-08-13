@@ -52,7 +52,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,laravel,nodejs,express,mysql,git,figma,postman,tailwind&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,figma,postman,tailwind&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
