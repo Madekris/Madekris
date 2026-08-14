@@ -22,7 +22,7 @@
 
 - 🔭 I'm a **Software Engineer**
 - 👯 I’m a **Computer Science Student** at ITB STIKOM Bali
-- 🌱 I’m currently learning **Laravel, React, JS, NodeJS, TS, PHP, Python**
+- 🌱 I’m currently learning **Laravel, JS, PHP**
 - 📫 How to reach me: **[krisnawidiatmika17@gmail.com](mailto:krisnawidiatmika17@gmail.com)**
 
 ---
@@ -52,7 +52,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,figma,postman,tailwind&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,js,figma,postman,tailwind&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
